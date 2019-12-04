@@ -1,2 +1,2 @@
 # Slimpedia
-A simple, databaseless wiki written in python.
+A simple, databaseless wiki written in PHP.
